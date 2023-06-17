@@ -51,45 +51,21 @@
       "id": "VPqrgB3"
     },
     {
-      "title": "Veg Pie",
+      "title": "Chickpea Curry",
       "ingredients": [
-        "mushrooms",
-        "leeks",
-        "tofu",
-        "carrots"
+        "2 tbsp oil",
+        "1 onion",
+        "1 tsp fresh or dried chilli",
+        "9 garlic cloves",
+        "thumb-sized piece ginger",
+        "1 tbsp ground coriander",
+        "2 tbsp ground cumin",
+        "1 tbsp garam masala",
+        "2 tbsp tomato purée"
       ],
-      "method": "blah blah blah",
-      "cookingTime": "45 minutes",
-      "id": "QzzMeiC"
-    },
-    {
-      "title": "Veg Pie",
-      "ingredients": [
-        "mushrooms",
-        "leeks",
-        "tofu",
-        "carrots"
-      ],
-      "method": "blah blah blah",
-      "cookingTime": "45 minutes",
-      "id": "vFBcV6t"
-    },
-    {
-      "title": "asd",
-      "ingredients": [],
-      "method": "asd",
-      "cookingTime": "12 minutes",
-      "id": "yHX735h"
-    },
-    {
-      "title": "csvdfgs",
-      "ingredients": [
-        "asd",
-        "zxc"
-      ],
-      "method": "asfgds",
-      "cookingTime": "35 minutes",
-      "id": "Rvgsv9J"
+      "method": "To make the paste, heat a little of the 2 tbsp oil in a frying pan, add 1 diced onion and 1 tsp fresh or dried chilli, and cook until softened, about 8 mins.In a food processor, combine 9 garlic cloves, a thumb-sized piece of peeled ginger and the remaining oil, then add 1 tbsp ground coriander, 2 tbsp ground cumin, 1 tbsp garam masala, 2 tbsp tomato purée, ½ tsp salt and the fried onion. Blend to a smooth paste – add a drop of water or more oil, if needed.Cook the paste in a medium saucepan for 2 mins over a medium-high heat, stirring occasionally so it doesn’t stick.Tip in two 400g cans drained chickpeas and a 400g can chopped tomatoes, and simmer for 5 mins until reduced down.Add 100g creamed coconut with a little water, cook for 5 mins more, then add ½ small pack chopped coriander and 100g spinach, and cook until wilted.Garnish with extra coriander and serve with rice or dhal (or both).",
+      "cookingTime": "25 minutes",
+      "id": "tnQm_iO"
     }
   ]
 }
